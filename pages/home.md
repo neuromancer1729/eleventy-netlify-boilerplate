@@ -6,6 +6,4 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
-
-Enjoy by essays on decentralised finance, philosopy, book reviews and random musings.
+Hello and Welcome! Enjoy by essays on decentralised finance, philosopy, book reviews and random musings.
