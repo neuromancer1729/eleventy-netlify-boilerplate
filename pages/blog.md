@@ -7,4 +7,3 @@ navtitle: Blog
 tags:
   - nav
 ---
-.
