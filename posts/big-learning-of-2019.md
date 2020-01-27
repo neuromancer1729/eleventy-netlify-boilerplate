@@ -5,8 +5,6 @@ summary: I take a look back the big events and learning from last year
 tags:
   - post
 ---
-
-
 ## Take it slow
 
 Don't rush into decisions
@@ -17,23 +15,15 @@ It is okay to not have an opinion on all things,
 
 it is okay to say, i don't know
 
-
-
 ## Find your music
 
 to optimise for time spent in state of flow, 
 
 it is important to find the tune to reasonate with in daily activities.
 
-
-
-
-
 ## Doing good at scale
 
 I elaborate on this deeply in my post Crony Capitalism \[WIP]
-
-
 
 ## Limits of rationality
 
