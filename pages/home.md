@@ -6,4 +6,8 @@ navtitle: Home
 tags:
   - nav
 ---
-Hello and Welcome! Enjoy by essays on decentralised finance, philosopy, book reviews and random musings.
+Hello and Welcome! 
+
+In my opinion, a blog is a monologue of a conversation no one wants to have with you.
+
+Enjoy my essays on decentralised finance, philosophy, book reviews and random musings.
