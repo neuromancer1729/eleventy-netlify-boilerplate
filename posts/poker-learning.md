@@ -7,13 +7,11 @@ summary: >-
 tags:
   - post
 ---
-
-
-
-
 Additional Notes
 
-AI Pluribus for some articles on how AI's pushing this game
+
+
+One exciting recent development in this space has been and AI who goes by the name of  Pluribus, an attempt to teach the computer to play the poker.
 
 
 
