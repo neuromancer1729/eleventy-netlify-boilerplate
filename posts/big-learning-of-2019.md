@@ -1,5 +1,5 @@
 ---
-title: Big learning of 2019
+title: Big learnings of 2019
 date: 2020-01-27T01:36:23.706Z
 summary: I take a look back the big events and learning from last year
 tags:
